@@ -65,10 +65,16 @@ banking-transaction-sql-analysis/
 - [E-Commerce Customer Segmentation](https://github.com/Shraddha964-dev/ecommerce-customer-analysis) 
   — Same RFM segmentation logic implemented in Python + Scikit-learn
 
-## 👩‍💻 About
 
-Built by **Shraddha Sajane** — Data Analyst with 3.5 years of experience 
-in financial services (Temenos Kony Infinity banking platform).
+## 👩‍💻 About ME
+
+I am actively seeking entry-level opportunities in Data Analyst and continuously building projects to strengthen my skills.
+
+If you have suggestions or feedback, feel free to share.
+
+If you find this helpful, feel free to star the repository!
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at ssajane86@gmail.com.
 
 [LinkedIn](https://www.linkedin.com/in/shraddha-sajane) | 
 [GitHub](https://github.com/Shraddha964-dev)
